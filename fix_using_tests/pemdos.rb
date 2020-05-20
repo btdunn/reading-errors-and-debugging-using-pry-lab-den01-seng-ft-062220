@@ -7,6 +7,6 @@ def snake_it_up(string)
   else
     string
     binding.pry
-    puts "fuck you"
+    print "fuck you"
   end
 end
